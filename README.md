@@ -27,4 +27,5 @@ Aplicación de Windows Forms en C# para registrar alquileres de vehículos y cal
 * Etiquetas de Subtotal, Descuento, Domicilio, ITBIS y Total a pagar en formato `RD$ 0.00`.
 
 ## Capturas de pantalla
+<img width="911" height="545" alt="image" src="https://github.com/user-attachments/assets/a9b5a224-37e4-4c59-9200-36bc10ece0d9" />
 
